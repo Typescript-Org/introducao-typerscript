@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "ES6", // Definindo versões 
+    "strict": true,
+    "outDir": "./dist"
+  }
+}
